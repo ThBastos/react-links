@@ -50,6 +50,8 @@
 
 > [Learn React + Redux by building a SoundCloud Client](https://github.com/rwieruch/react-redux-soundcloud) - Interface consumindo API do SoundCloud
 
+> [Autenticação utilizando react-router e hooks](https://github.com/lwazevedo/authappexample) - Ótimo exemplo para ver os hooks com rotas privadas
+
 
 ### Vídeos tutoriais
 > [Youtube - Trying out React Hooks](https://www.youtube.com/playlist?list=PLN3n1USn4xllL1OrVr-A4oq7SG-cS9MOQ) - Uma lista de vídeos testando os Hooks assim que foram comentados ainda na versão alpha
