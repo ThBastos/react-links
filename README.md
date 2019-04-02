@@ -37,6 +37,8 @@
 
 > [How to Build a Todo List with React Hooks](https://medium.freecodecamp.org/how-to-build-a-todo-list-with-react-hooks-ebaa4e3db3b) - Ótimo tutorial para entender o relacionamento entre os componentes e os hooks.
 
+> [Convertendo um Class Based Component para React Hooks](https://willianjusten.com.br/convertendo-um-class-based-component-para-react-hooks/) - Bom exemplo para ver as mudanças que os hooks trazem no código
+
 
 
 ### Repositórios
