@@ -15,7 +15,7 @@
 
 > [Atomic Design with React](https://cheesecakelabs.com/blog/atomic-design-react/) - Um case interessante de como implementar, muito focado na escalabilidade e estrutura do CSS
 
-> [Using React within a Design System](https://medium.com/buildit/using-react-within-a-design-system-73d4bb0cc822)
+> [Using React within a Design System](https://medium.com/buildit/using-react-within-a-design-system-73d4bb0cc822) - Como implementar Atomic Design na estrutura do React e ótimas dicas e ferramentas para ajudar no desenvolvimento
 
 > [ERP Solution with ReactJS](https://www.theseus.fi/bitstream/handle/10024/142559/Master_Thesis_Koppala_Jarno.pdf) - Uma tese de mestrado sobre a implementação de React em ERP's
 
@@ -29,7 +29,7 @@
 
 > [Ecossistema React e as etapas iniciais no setup de um projeto](https://medium.com/nstech/ecossistema-react-as-etapas-iniciais-no-setup-de-um-projeto-bbb27f98b6c4) - Boas práticas e comenta sobre dois catálogos de componentes prontos: http://www.material-ui.com/ / https://ant.design/ 
 
-> [Build a CRUD App in React with Hooks](https://www.taniarascia.com/crud-app-in-react-with-hooks/) -Ótimo para ver como funcionam os Hooks em um CRUD
+> [Build a CRUD App in React with Hooks](https://www.taniarascia.com/crud-app-in-react-with-hooks/) - Ótimo para ver como funcionam os Hooks em um CRUD
 
 > [The SoundCloud Client in React + Redux](https://www.robinwieruch.de/the-soundcloud-client-in-react-redux/) - Apesar de não seguir um padrão na estrutura de pastas/arquitetura é um ótimo exemplo de uma aplicação com vários componentes e páginas
 
