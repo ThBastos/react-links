@@ -1,16 +1,5 @@
 ## Referências React
 
-### Tools, frameworks
-> [Storybook](https://github.com/storybooks/storybook) - Ótima ferramenta para visualizar todos os componentes, fazer testes e como funcionam. 
-
-> [Formik](https://github.com/jaredpalmer/formik) - Biblioteca para formulários no React
-
-> [Gatsby Framework](https://www.gatsbyjs.org/) - Framework em React
-
-> [Next Framework](https://nextjs.org/) - Framework em React
-
-
-
 ### Estrutura de pastas, arquitetura
 > [The 100% correct way to structure a React app (or why there’s no such thing)](https://hackernoon.com/the-100-correct-way-to-structure-a-react-app-or-why-theres-no-such-thing-3ede534ef1ed) - Não existem maneiras 100% corretas de estruturar uma aplicação mas ele comenta dos prós e contras de algumas estruturas utilizadas
 
@@ -65,3 +54,13 @@
 
 
 > [React Hooks na prática | Diego Fernandes](https://www.youtube.com/watch?v=6WB16wZS61c&t=37s) - Exemplo prático e fácil de entender sobre os Hooks
+
+
+### Tools, frameworks
+> [Storybook](https://github.com/storybooks/storybook) - Ótima ferramenta para visualizar todos os componentes, fazer testes e como funcionam. 
+
+> [Formik](https://github.com/jaredpalmer/formik) - Biblioteca para formulários no React
+
+> [Gatsby Framework](https://www.gatsbyjs.org/) - Framework em React
+
+> [Next Framework](https://nextjs.org/) - Framework em React
