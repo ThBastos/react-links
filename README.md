@@ -51,14 +51,17 @@
 
 
 ### Repositórios
-> [Form with Hooks, codesandbox](https://codesandbox.io/s/ywo8rmk7zz?from-embed)
+> [Form with Hooks, codesandbox](https://codesandbox.io/s/ywo8rmk7zz?from-embed) - Código no codesandbox utilizando form com hooks
 
-> [Dynamically add name using formik and react hooks - Formulário com hooks](https://codesandbox.io/s/oqv93roj66)
+> [Dynamically add name using formik and react hooks - Formulário com hooks](https://codesandbox.io/s/oqv93roj66) - Código no codesandbox utilizando form com hooks
 
-> [A Soundcloud client built with React / Redux](https://github.com/andrewngu/sound-redux)
+> [A Soundcloud client built with React / Redux](https://github.com/andrewngu/sound-redux) - Interface consumindo API do SoundCloud
+
+> [Learn React + Redux by building a SoundCloud Client](https://github.com/rwieruch/react-redux-soundcloud) - Interface consumindo API do SoundCloud
 
 
 ### Vídeos tutoriais
-> [Youtube - Trying out React Hooks](https://www.youtube.com/playlist?list=PLN3n1USn4xllL1OrVr-A4oq7SG-cS9MOQ)
+> [Youtube - Trying out React Hooks](https://www.youtube.com/playlist?list=PLN3n1USn4xllL1OrVr-A4oq7SG-cS9MOQ) - Uma lista de vídeos testando os Hooks assim que foram comentados ainda na versão alpha
 
-> [React Hooks na prática | Diego Fernandes](https://www.youtube.com/watch?v=6WB16wZS61c&t=37s)
+
+> [React Hooks na prática | Diego Fernandes](https://www.youtube.com/watch?v=6WB16wZS61c&t=37s) - Exemplo prático e fácil de entender sobre os Hooks
